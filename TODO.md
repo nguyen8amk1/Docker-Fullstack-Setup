@@ -1,7 +1,10 @@
 
 # TODAY 
-1. Docker Debug Database setup: MYSQL [] @Current
-    -> Docker Compose Production Database setup: MYSQL []
+1. Docker Debug Database setup: MYSQL [] (1h) @Current
+    -> Docker Compose Production Database setup: MYSQL [] (1h) @Next
+    https://www.youtube.com/watch?v=6BnyGio_RN0
+    https://www.youtube.com/watch?v=kphq2TsVRIs
+    https://www.youtube.com/watch?v=BwEIMkQMui4
 
 # TODO
 
@@ -27,3 +30,4 @@
 
 
 # DONE 
+...@Later
